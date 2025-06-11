@@ -112,7 +112,7 @@ scheduler.GenerateSchedule(tasks);
 
 **Meshack Mthimkhulu**
 Software Engineering Intern | C# | DevOps | AI Enthusiast
-🔗 [LinkedIn](https://www.linkedin.com/in/meshackmthimkhulu/) • 🐙 [GitHub](https://github.com/Meshack132)
+🔗 [LinkedIn](https://www.linkedin.com/in/meshackmthimkhulu-software-engineer/)) • 🐙 [GitHub](https://github.com/Meshack132)
 
 ---
 
