@@ -12,3 +12,4 @@ C:\Users\E1009615\Dev\AI Study Planner\obj\Debug\net8.0\refint\AI Study Planner.
 C:\Users\E1009615\Dev\AI Study Planner\obj\Debug\net8.0\AI Study Planner.pdb
 C:\Users\E1009615\Dev\AI Study Planner\obj\Debug\net8.0\AI Study Planner.genruntimeconfig.cache
 C:\Users\E1009615\Dev\AI Study Planner\obj\Debug\net8.0\ref\AI Study Planner.dll
+C:\Users\E1009615\Dev\AI Study Planner\obj\Debug\net8.0\AI Study Planner.sourcelink.json

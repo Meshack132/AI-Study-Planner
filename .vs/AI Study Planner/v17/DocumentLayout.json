@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\strategies\\standardstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:strategies\\standardstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\models\\studytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:models\\studytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\factories\\taskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:factories\\taskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\services\\studyscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:services\\studyscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\strategies\\pomodorostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:strategies\\pomodorostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\strategies\\standardstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:strategies\\standardstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\strategies\\ischedulestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +23,32 @@
       "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:services\\exportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\services\\studyscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:services\\studyscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\services\\storageservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:services\\storageservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\models\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:models\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\models\\studytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:models\\studytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|c:\\users\\e1009615\\dev\\ai study planner\\factories\\taskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332EAC82-FA54-4EDA-ACA0-6416099C032A}|AI Study Planner.csproj|solutionrelative:factories\\taskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,76 +58,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Utilities\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Utilities\\ConsoleHelper.cs",
+              "RelativeToolTip": "Utilities\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:07:53.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Services\\ValidationService.cs",
+              "RelativeToolTip": "Services\\ValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:05:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StorageService..cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Services\\StorageService..cs",
+              "RelativeDocumentMoniker": "Services\\StorageService..cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Services\\StorageService..cs",
+              "RelativeToolTip": "Services\\StorageService..cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:02:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Models\\UserConfig.cs",
+              "RelativeDocumentMoniker": "Models\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Models\\UserConfig.cs",
+              "RelativeToolTip": "Models\\UserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:58:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ExportService.cs",
               "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Services\\ExportService.cs",
               "RelativeDocumentMoniker": "Services\\ExportService.cs",
               "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Services\\ExportService.cs",
               "RelativeToolTip": "Services\\ExportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T07:15:56.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "StudyScheduler.cs",
               "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Services\\StudyScheduler.cs",
               "RelativeDocumentMoniker": "Services\\StudyScheduler.cs",
               "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Services\\StudyScheduler.cs",
               "RelativeToolTip": "Services\\StudyScheduler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T07:12:43.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PomodoroStrategy.cs",
               "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Strategies\\PomodoroStrategy.cs",
               "RelativeDocumentMoniker": "Strategies\\PomodoroStrategy.cs",
               "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Strategies\\PomodoroStrategy.cs",
               "RelativeToolTip": "Strategies\\PomodoroStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T07:08:18.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StandardStrategy.cs",
               "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Strategies\\StandardStrategy.cs",
               "RelativeDocumentMoniker": "Strategies\\StandardStrategy.cs",
               "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Strategies\\StandardStrategy.cs",
               "RelativeToolTip": "Strategies\\StandardStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T07:04:39.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IScheduleStrategy.cs",
               "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Strategies\\IScheduleStrategy.cs",
               "RelativeDocumentMoniker": "Strategies\\IScheduleStrategy.cs",
               "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Strategies\\IScheduleStrategy.cs",
               "RelativeToolTip": "Strategies\\IScheduleStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T07:02:57.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "TaskFactory.cs",
               "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Factories\\TaskFactory.cs",
               "RelativeDocumentMoniker": "Factories\\TaskFactory.cs",
@@ -119,12 +187,11 @@
               "RelativeToolTip": "Factories\\TaskFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T06:59:05.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T06:59:05.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "StudyTask.cs",
               "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Models\\StudyTask.cs",
               "RelativeDocumentMoniker": "Models\\StudyTask.cs",
@@ -132,18 +199,17 @@
               "RelativeToolTip": "Models\\StudyTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T06:56:22.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T06:56:22.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\E1009615\\Dev\\AI Study Planner\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAwDUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAuwNYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T06:52:11.331Z",
               "EditorCaption": ""

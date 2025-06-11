@@ -9,6 +9,8 @@ namespace AI_Study_Planner.Strategies
 {
     public interface IScheduleStrategy
     {
-        void Schedule(List<StudyTask> tasks);
+       
+            void Schedule(List<StudyTask> tasks);
+            bool IsPriority(string topic);  // Add this method
+        }
     }
-}

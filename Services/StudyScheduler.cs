@@ -11,33 +11,28 @@ namespace AI_Study_Planner.Services
     public class StudyScheduler
     {
         private readonly IScheduleStrategy _strategy;
-        private int _fatigueLevel;
-        private int _streak;
 
         public StudyScheduler(IScheduleStrategy strategy)
         {
             _strategy = strategy;
-            _fatigueLevel = 0;
-            _streak = 0;
         }
 
         public void GenerateSchedule(List<StudyTask> tasks)
         {
-            tasks.Sort((a, b) => a.Deadline.CompareTo(b.Deadline));
-            _strategy.Schedule(tasks);
-            UpdateFatigue(tasks);
-        }
-
-        private void UpdateFatigue(List<StudyTask> tasks)
-        {
-            foreach (var task in tasks)
+            tasks.Sort((a, b) =>
             {
-                _fatigueLevel += task.Difficulty * 3;
-                _streak++;
-            }
+                int dateComp = a.Deadline.CompareTo(b.Deadline);
+                if (dateComp != 0) return dateComp;
 
-            Console.WriteLine($"😴 Fatigue Level: {_fatigueLevel}/100");
-            Console.WriteLine($"🔥 Current Streak: {_streak} days\n");
+                // Use the strategy's IsPriority method
+                bool aPriority = _strategy.IsPriority(a.Topic);
+                bool bPriority = _strategy.IsPriority(b.Topic);
+
+                // Higher priority comes first
+                return bPriority.CompareTo(aPriority);
+            });
+
+            _strategy.Schedule(tasks);
         }
     }
 }
